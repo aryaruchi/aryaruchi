@@ -1,18 +1,77 @@
-# 💫 About Me:
-I'm Ruchi, a Frontend Developer skilled in HTML, CSS, JavaScript, and frameworks like React. I focus on creating responsive, user-friendly interfaces and optimizing web performance. Passionate about clean code and great design, I’m always learning to deliver seamless web experiences
+# 👋 Hi, I'm Ruchi Arya!
 
+### 💻 MERN Stack Developer | Full-Stack Web Developer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ruchi789) 
+I'm a passionate **MERN Stack Developer** with 1+ year of professional experience building and deploying full-stack web applications for real-world clients.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aryaruchi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aryaruchi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaruchi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Currently working at **World WebLogic Pvt. Ltd.**, where I develop scalable web applications, responsive user interfaces, RESTful APIs, and secure authentication systems.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aryaruchi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I enjoy turning ideas into functional, user-friendly web applications while continuously learning new technologies and improving my development skills.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+- 🔭 Currently working as a **MERN Stack Developer** at World WebLogic Pvt. Ltd.
+- 💻 Experienced in building HRMS, e-commerce platforms, and business websites.
+- 🌱 Continuously improving my skills in React.js, Node.js, and backend development.
+- 🔐 Experienced with REST APIs, JWT Authentication, and Role-Based Access Control.
+- 🎨 Passionate about responsive UI, clean code, and reusable components.
+- 🤝 Interested in collaborating on exciting web development projects.
+
+### 🛠️ Tech Stack
+
+**Frontend**
+- React.js
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Tailwind CSS
+- Bootstrap
+- React Router
+- Vite
+
+**Backend**
+- Node.js
+- Express.js
+- RESTful APIs
+- JWT Authentication
+
+**Database**
+- MongoDB
+- MS SQL Server
+
+**Tools & Platforms**
+- Git & GitHub
+- Visual Studio Code
+
+### 🌟 Featured Projects
+
+**1. HRMS – Employee Management System**
+- Employee management, attendance, leave requests, and role-based access.
+- Secure JWT authentication and REST APIs.
+- Tech: MongoDB, Express.js, React.js, Node.js.
+
+🔗 [Live Project](https://wwlhrms.digitalwebguider.com/)
+
+**2. Digital WebGuider – IT Company Website**
+- Responsive business website with reusable React components.
+- Built using Tailwind CSS and Vite.
+- Tech: React.js, Node.js, Express.js, MongoDB.
+
+🔗 [Live Website](https://digitalwebguider.com/)
+
+**3. Atal Optical – E-Commerce Platform**
+- Dynamic product catalog, shopping cart, and secure checkout.
+- Developed for a real-world sunglasses retail client.
+- Tech: MongoDB, Express.js, React.js, Node.js.
+
+🔗 [Live Website](https://ataloptical.org/)
+
+### 🌐 Connect With Me
+
+- 💼 LinkedIn: [Ruchi Arya](https://linkedin.com/in/ruchi789)
+- 🌍 Portfolio: [My Portfolio](https://aryaruchi.github.io/)
+- 🐙 GitHub: [@aryaruchi](https://github.com/aryaruchi)
+- 📧 Email: ruchiarya4215@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
