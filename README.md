@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ruchi Arya!
+# 👋 Hi, I'm Ruchi!
 
 ### 💻 MERN Stack Developer | Full-Stack Web Developer
 
