@@ -65,6 +65,12 @@ I enjoy turning ideas into functional, user-friendly web applications while cont
 
 🔗 [Live Website](https://ataloptical.org/)
 
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryaruchi&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaruchi&layout=compact&theme=tokyonight)
+
 ### 🌐 Connect With Me
 
 - 💼 LinkedIn: [Ruchi Arya](https://linkedin.com/in/ruchi789)
